@@ -26,20 +26,24 @@ h4{text-align: center;}
 #JavaS{
     background-color: yellow;
     color: black;
+    border:none;
 }
 
 #React{
     background-color: blue;
     color: white;
+    border:none;
 }
 #Nego{
     background-color:gray;
     color: white;
+    border:none;
 }
 
 #Star{
     background-color: red;
     color: white;
+    border:none;
 }
 
 .col-lg-6{
@@ -53,8 +57,10 @@ h4{text-align: center;}
     margin: auto;
 }
 #botonfin{
-    background-color: rgb(61, 162, 61);
+    background-color: rgb(7, 220, 7);
     color: white;
+    border:none;
+    text-decoration-line: none !important;
 }
 
 #anchofoot{
@@ -88,5 +94,11 @@ h4{text-align: center;}
 #luz{
 
     font-size:large;
+    
+}
+#luz-bot{
+    background-color: rgb(6, 248, 6);
+    color: white;
+    border:none;
     
 }
